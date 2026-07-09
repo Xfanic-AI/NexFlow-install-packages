@@ -31,4 +31,4 @@ On first run (macOS), grant **Accessibility** permission so window management wo
 
 ---
 
-**v1.0.4** · © XF Technology
+© Shenzhen Xfanic Technology Co., Ltd
