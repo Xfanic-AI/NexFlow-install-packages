@@ -6,8 +6,8 @@ Desktop companion app for **Smartview Dock** (model **XF-C5019D101**). Customize
 
 | Platform | File |
 |----------|------|
-| Windows | `NexFlow Setup 1.0.4.exe` |
-| macOS | `NexFlow-1.0.4.dmg` |
+| Windows | `NexFlow Setup x.x.x.exe` |
+| macOS | `NexFlow-x.x.x.dmg` |
 
 ## Requirements
 
